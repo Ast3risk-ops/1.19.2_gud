@@ -1,5 +1,5 @@
 # 1.19.2_gud
-My 1.19.2 modpack for any MultiMC-compatible launcher!
+My 1.19.2 Fabric modpack for any MultiMC-compatible launcher!
 
 
 ## Installation (MultiMC)
