@@ -1,8 +1,9 @@
 # 1.19.2_gud
 My 1.19.2 Fabric modpack for any MultiMC-compatible launcher!
 
-[Download latest](https://github.com/Ast3risk-ops/1.19.2_gud/releases/latest)  
-[View more releases](https://github.com/Ast3risk-ops/1.19.2_gud/releases)
+[Download latest stable release](https://github.com/Ast3risk-ops/1.19.2_gud/releases/latest)  
+[View more releases](https://github.com/Ast3risk-ops/1.19.2_gud/releases)  
+[Download latest git build](https://github.com/Ast3risk-ops/1.19.2_gud/archive/refs/heads/master.zip)
 
 
 ## Installation (MultiMC)
