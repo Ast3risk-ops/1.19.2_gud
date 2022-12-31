@@ -1,0 +1,14 @@
+name = "Craftify"
+filename = "Craftify-1.19-1.4.1-fabric.jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = "sha1"
+hash = "aa2364c4f04092b69b3984130e31bf3f57fc355f"
+
+[update]
+[update.curseforge]
+file-id = 4020305
+project-id = 552277

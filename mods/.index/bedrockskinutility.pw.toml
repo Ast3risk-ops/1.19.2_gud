@@ -1,0 +1,14 @@
+name = "BedrockSkinUtility"
+filename = "BedrockSkinUtility-1.3.0.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/ihxXgVk3/versions/1.3.0/BedrockSkinUtility-1.3.0.jar"
+hash-format = "sha512"
+hash = "8aa57fcc91006fad980a95972aa460fdb7d172b68102303b2f47f90556a1de4bf6551a45d808f8d7d1945d70088a77f8fa926f1d7344b346a6d580099df1caaf"
+
+[update]
+[update.modrinth]
+mod-id = "ihxXgVk3"
+version = "cG3ODBls"

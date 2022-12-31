@@ -1,0 +1,14 @@
+name = "Name Pain"
+filename = "namepain-1.4.0+fabric-1.19.x.jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = "sha1"
+hash = "9969b3e156cfe8fb84a8e64ac7b30c6af769f8d4"
+
+[update]
+[update.curseforge]
+file-id = 3821736
+project-id = 366263

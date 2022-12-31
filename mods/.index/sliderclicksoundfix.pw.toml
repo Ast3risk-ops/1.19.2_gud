@@ -1,0 +1,14 @@
+name = "Slider ClickSoundFix"
+filename = "clicksoundfix-1.2.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/iQqTNBet/versions/1.2/clicksoundfix-1.2.jar"
+hash-format = "sha512"
+hash = "81896abf396837e52a54748a1f75ff2fb65e330382d806e370d4807c859d67a711e58e2c8f21b469699441999771657dd47f848f4f4b153dbab3b3d8d1b2ad43"
+
+[update]
+[update.modrinth]
+mod-id = "iQqTNBet"
+version = "95osAFKn"

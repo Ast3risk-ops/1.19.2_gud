@@ -1,0 +1,14 @@
+name = "Roughly Enough Items (REI)"
+filename = "RoughlyEnoughItems-9.1.577.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/nfn13YXA/versions/KZADcrcr/RoughlyEnoughItems-9.1.577.jar"
+hash-format = "sha512"
+hash = "bc88ee8944f1b481dd093d48d070eb794c671bf8fb84b9d1b8ab82927769b6be0347ccb644dd7f0258192c9a7c1de2dcb8e87654f6c052d47fd36f63c3f2115a"
+
+[update]
+[update.modrinth]
+mod-id = "nfn13YXA"
+version = "KZADcrcr"

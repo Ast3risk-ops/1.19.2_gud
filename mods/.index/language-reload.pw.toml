@@ -1,0 +1,14 @@
+name = "Language Reload"
+filename = "language-reload-1.4.1.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/uLbm7CG6/versions/zpspgmps/language-reload-1.4.1.jar"
+hash-format = "sha512"
+hash = "e45114ddc816f64007f7cce9f8c26de539be26384749ccb83f79349d63e974b35f61528e6e2c3cd5b2dcf0298d7a363f7a3a4d60540888b5f102d8d4bb3884d8"
+
+[update]
+[update.modrinth]
+mod-id = "uLbm7CG6"
+version = "zpspgmps"

@@ -1,0 +1,14 @@
+name = "Wither Cage Fix"
+filename = "wither-cage-fix-1.0.15+MC1.19-1.19.2.jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = "sha1"
+hash = "33a8ccbc638a913967cfcd0c1a65cb3f10e99f00"
+
+[update]
+[update.curseforge]
+file-id = 3922237
+project-id = 406807

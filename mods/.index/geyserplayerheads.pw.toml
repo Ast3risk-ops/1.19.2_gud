@@ -1,0 +1,14 @@
+name = "Geyser Player Heads"
+filename = "geyserplayerheads-1.0.0.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/J0TC85yq/versions/OzEnkwdI/geyserplayerheads-1.0.0.jar"
+hash-format = "sha512"
+hash = "d3142dba034ddb431fef8f98bf0cf7ac2d018123ca1ee635773a5f834eeed4e4759223f275c05e4490cc2e9feb0e54d71acc117eda93880e76213d47aa692497"
+
+[update]
+[update.modrinth]
+mod-id = "J0TC85yq"
+version = "OzEnkwdI"

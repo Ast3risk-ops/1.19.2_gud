@@ -1,0 +1,14 @@
+name = "Custom LAN"
+filename = "custom-lan-1.19.1-v2.2.0.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/OCvCFPNR/versions/ANLbU0V6/custom-lan-1.19.1-v2.2.0.jar"
+hash-format = "sha512"
+hash = "675e5e02666d4f3753648b1d40c04d150b453cd36da9314c313a080eea1eabc6f1aadc2ee1add8a702a73cb6f600e97288a3c9fcdd9173429de3a0f5c65bd7cb"
+
+[update]
+[update.modrinth]
+mod-id = "OCvCFPNR"
+version = "ANLbU0V6"

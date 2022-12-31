@@ -1,0 +1,14 @@
+name = "DarkKore"
+filename = "DarkKore-0.3.1-1.19.jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = "sha1"
+hash = "08da3d36867876a834cd3c5ec3a9bc4309c00573"
+
+[update]
+[update.curseforge]
+file-id = 4025238
+project-id = 632729

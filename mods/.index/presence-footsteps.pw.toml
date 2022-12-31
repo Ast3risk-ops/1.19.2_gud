@@ -1,0 +1,14 @@
+name = "Presence Footsteps [Fabric]"
+filename = "PresenceFootsteps-1.6.2.jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = "sha1"
+hash = "b930833e2c5ec0ce2b423663e771a27ea87ef3ff"
+
+[update]
+[update.curseforge]
+file-id = 3973304
+project-id = 334259

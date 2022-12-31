@@ -1,0 +1,14 @@
+name = "Fastload"
+filename = "Fastload-1.2.1.jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = "sha1"
+hash = "f748552b4fc192034af6143b0b4906943d8b0ed3"
+
+[update]
+[update.curseforge]
+file-id = 4026321
+project-id = 630620

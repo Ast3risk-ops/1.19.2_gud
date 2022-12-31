@@ -1,0 +1,14 @@
+name = "Gamma Utils"
+filename = "Gamma-Utils-1.6.10-mc1.19.2.jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = "sha1"
+hash = "1d6c28aace09ad8819fa28a5e9113f832f39696b"
+
+[update]
+[update.curseforge]
+file-id = 3931091
+project-id = 492295

@@ -1,0 +1,14 @@
+name = "Passable Leaves"
+filename = "passableleaves-1.3.5.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/islPsGe4/versions/ppwGfbz3/passableleaves-1.3.5.jar"
+hash-format = "sha512"
+hash = "133020855b44c16381b9714c2b6f56ceda8ef961d6d665f4d798a9aa396eddb8b9a372707b8f32d7e29c88adc73c88108c40db6ab18d975a29b4f7024c5308ec"
+
+[update]
+[update.modrinth]
+mod-id = "islPsGe4"
+version = "ppwGfbz3"

@@ -1,0 +1,14 @@
+name = "ServerCore"
+filename = "servercore-1.3.3-1.19.2.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/4WWQxlQP/versions/kzD8EGTS/servercore-1.3.3-1.19.2.jar"
+hash-format = "sha512"
+hash = "3cf3c0f43bdc5b0f753e87db0cfe1cee0299cfd9f5732697288af4685ae51b1d883f57ed20fc20c6a8f5871215d727e4d5fd5175738345d8f1b4c87f1351a116"
+
+[update]
+[update.modrinth]
+mod-id = "4WWQxlQP"
+version = "kzD8EGTS"

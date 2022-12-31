@@ -1,7 +1,7 @@
 config/
 backups/
 .fabric/
-bobby/
+.bobby/
 .replay_cache/
 coremods/
 crash-reports/
@@ -26,8 +26,8 @@ shaderpacks/
 skins/
 syncmatics/
 video/
-XeroWaypoints/
-XeroWaypoints_BACKUP032021/
+XaeroWaypoints/
+XaeroWaypoints_BACKUP032021/
 XaeroWorldMap/
 deaths.dat
 irisUpdateInfo.json
@@ -36,3 +36,5 @@ servers.dat
 servers.dat_old
 servers.essential.dat
 usercache.json
+chesttracker/
+mods/.index/

@@ -1,0 +1,14 @@
+name = "Semitransluceny Fix"
+filename = "semitranslucency-1.1-fabric.jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = "sha1"
+hash = "eda1c6bd0f62f192cdfd4491023a974decd20877"
+
+[update]
+[update.curseforge]
+file-id = 3405595
+project-id = 509414

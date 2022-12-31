@@ -1,0 +1,14 @@
+name = "multiconnect"
+filename = "multiconnect-1.6-beta.23.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/sfEDKnlo/versions/1.6-beta.23/multiconnect-1.6-beta.23.jar"
+hash-format = "sha512"
+hash = "0b7cc7699d7e6d8c58506276a95668991e7942df8850664cebab0ed6afae38b7afc0c8809a744ae7e1d3fdef352f5511dc1c8a2f073844c93d39b3e91b3bd2a4"
+
+[update]
+[update.modrinth]
+mod-id = "sfEDKnlo"
+version = "UHi1MIWU"

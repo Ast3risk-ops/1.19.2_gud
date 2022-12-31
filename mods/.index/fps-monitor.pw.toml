@@ -1,0 +1,14 @@
+name = "FPS Monitor"
+filename = "FPS-Monitor-1.19-1.3.0-Fabric.jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = "sha1"
+hash = "7c6db83778d795814e14e8c05ccb5779dd7b6a52"
+
+[update]
+[update.curseforge]
+file-id = 3921152
+project-id = 548447

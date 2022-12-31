@@ -1,0 +1,14 @@
+name = "FancyVideo-API"
+filename = "FancyVideo-API-fabric-1.18.2-1.19-2.0.1.jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = "sha1"
+hash = "7dce9763165c95178353f79d4684817540e70fb4"
+
+[update]
+[update.curseforge]
+file-id = 3865529
+project-id = 591686

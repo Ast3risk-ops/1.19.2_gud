@@ -1,0 +1,14 @@
+name = "Cool Elytra Roll"
+filename = "cool_elytra-1.5.jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = "sha1"
+hash = "1fb9a97a577c0ff53969bd9b8b6b8242b6f6a844"
+
+[update]
+[update.curseforge]
+file-id = 4009069
+project-id = 518515

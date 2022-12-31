@@ -1,0 +1,14 @@
+name = "Cinematic"
+filename = "cinematic-fabric-1.18-1.19.2-1.0-beta.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/Ggszuqs3/versions/aWO4uuCZ/cinematic-fabric-1.18-1.19.2-1.0-beta.jar"
+hash-format = "sha512"
+hash = "695f8ed6ec6019b78d4fc07acd5d61a811601d2d503cda779c9243c22da78452b31509ed49db1ec4df48b04172790b66994e6b6adf0ba87f78991946ddf28ede"
+
+[update]
+[update.modrinth]
+mod-id = "Ggszuqs3"
+version = "aWO4uuCZ"

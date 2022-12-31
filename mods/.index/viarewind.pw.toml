@@ -1,0 +1,14 @@
+name = "ViaRewind"
+filename = "ViaRewind-2.0.2.jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = "sha1"
+hash = "6b0fc8260304826d59844b39e7a504bd8b171852"
+
+[update]
+[update.curseforge]
+file-id = 3583168
+project-id = 412935

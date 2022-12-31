@@ -1,0 +1,14 @@
+name = "project-543559"
+filename = "Essential-fabric_1-19-2.jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = "sha1"
+hash = "5c383c8fd994f6963de85840f2ae75c5b6be9925"
+
+[update]
+[update.curseforge]
+file-id = 3512167
+project-id = 543559

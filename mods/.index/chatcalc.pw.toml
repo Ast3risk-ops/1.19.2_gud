@@ -1,0 +1,14 @@
+name = "ChatCalc"
+filename = "chatcalc-3.0.12.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/a7X986Fs/versions/d5dmyLmc/chatcalc-3.0.12.jar"
+hash-format = "sha512"
+hash = "e7293c8fec37601781e59045a37a3c7af7d5fa8cfd33d7dc6a9fe9bd5400b32073b72607aac11a2b25edc57da8789998354d9614480e29b3f6b8a84f27680fca"
+
+[update]
+[update.modrinth]
+mod-id = "a7X986Fs"
+version = "d5dmyLmc"
